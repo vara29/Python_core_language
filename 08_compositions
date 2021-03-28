@@ -1,0 +1,12 @@
+## Author : Vara Peri
+## ContentName : compositions
+
+
+#########################################################################
+#########################################################################
+
+
+## ># PYTHON Convert Tuple to List to Dictionary
+## >*
+#convert 2 Lists to Dict
+print(dict(zip([x for x in 'abcdefg'], xrange(1, 8))))
